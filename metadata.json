@@ -1,0 +1,6 @@
+{
+  "name": "Madura Academy - Platform Olimpiade",
+  "description": "Platform kompetisi dan olimpiade akademik nasional terpercaya di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
